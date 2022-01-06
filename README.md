@@ -3,3 +3,10 @@
 This repository was created to store script of my master's thesis
 
 It can be applied to an origin-destination dataset that contains certain fields.
+
+## Aim
+## Methodology
+## Implementation in Shanghai
+#### Rider pattern
+#### Results
+#### Assesment
